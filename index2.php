@@ -1,5 +1,5 @@
 <?
-echo "hello";
+echo "hello to index 2";
 
 echo "this was added in version 2";
 
